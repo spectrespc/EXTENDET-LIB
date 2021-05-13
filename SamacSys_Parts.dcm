@@ -42,4 +42,10 @@ K
 F http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf
 $ENDCMP
 #
+$CMP 53398-0771
+D Headers & Wire Housings 1.25MM HDR 7 CKT Vertical
+K
+F https://componentsearchengine.com/Datasheets/2/53398-0771.pdf
+$ENDCMP
+#
 #End Doc Library
