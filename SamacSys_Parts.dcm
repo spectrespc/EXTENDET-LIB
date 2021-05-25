@@ -57,4 +57,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/53398-0867.pdf
 $ENDCMP
 #
+$CMP SIM8065-6-1-14-01-A
+D NANO SIM PUSH-PUSH 6P 1.37MM H G
+K
+F 
+$ENDCMP
+#
 #End Doc Library
