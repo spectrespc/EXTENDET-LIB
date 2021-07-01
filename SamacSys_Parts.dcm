@@ -1,51 +1,146 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NE555DR
-D Single Precision Timer
-K
-F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$CMP 104031-0811
+D microSD 1.10mm SMT push-pull memory card microSD 1.10mm SMT push-pull memory card
+F http://www.molex.com/webdocs/datasheets/pdf/en-us/1040310811_MEMORY_CARD_SOCKET.pdf
 $ENDCMP
 #
 $CMP 1775862-2
 D PCI Express / PCI Connectors mSATA/mini PCI-E 5.2H Type I G/F
-K
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1775862&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1775862-2
-$ENDCMP
-#
-$CMP USB2660I-JZX-03
-D USB 2.0 Hub/Flash Controller, 2xSD QFN64 USB2660I-JZX-03, USB Controller 2-channel 35Mbit/s USB 2.0, 3.3 V, 64-Pin, QFN
-K
-F http://ww1.microchip.com/downloads/en/DeviceDoc/2660.pdf
-$ENDCMP
-#
-$CMP 104031-0811
-D microSD 1.10mm SMT push-pull memory card microSD 1.10mm SMT push-pull memory card
-K
-F http://www.molex.com/webdocs/datasheets/pdf/en-us/1040310811_MEMORY_CARD_SOCKET.pdf
 $ENDCMP
 #
 $CMP 503960-0696
 D Memory Card Connectors 1mm microSIM Push Push SMT 6Ckt
-K
 F https://www.molex.com/pdm_docs/sd/5039600696_sd.pdf
-$ENDCMP
-#
-$CMP ZXLD1350ET5TA
-D LED DRVR 3Segment 9V/12V/15V/18V/24V Automotive 5-Pin TSOT-23 T/R
-K
-F https://componentsearchengine.com/Datasheets/1/ZXLD1350ET5TA.pdf
-$ENDCMP
-#
-$CMP BAT20JFILM
-D BAT20JFILM, Schottky Diode,  1A max, 23V, 2-Pin, SOD-323
-K
-F http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf
 $ENDCMP
 #
 $CMP 53398-0771
 D Headers & Wire Housings 1.25MM HDR 7 CKT Vertical
-K
 F https://componentsearchengine.com/Datasheets/2/53398-0771.pdf
+$ENDCMP
+#
+$CMP BAT20JFILM
+D BAT20JFILM, Schottky Diode,  1A max, 23V, 2-Pin, SOD-323
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00012201.pdf
+$ENDCMP
+#
+$CMP CRG0402F15R
+D TE Connectivity CRG0402 Series Thick Film Surface Mount Resistor 0402 Case 15 +/-1% 0.063W +/-100ppm/C
+F http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf
+$ENDCMP
+#
+$CMP ECS-480-20-30B-DU-TR
+D Crystal 48MHz 20pF 4-Pin SMD T/R - Tape and Reel
+F https://ecsxtal.com/store/pdf/ecx_53b_du.pdf
+$ENDCMP
+#
+$CMP GL823K
+D USB 2.0 SD/MSPRO Card Reader Controller
+F http://www.electrodragon.com/w/images/c/cb/GL823K.pdf
+$ENDCMP
+#
+$CMP GL850G-HH
+D GL850G USB 2.0 Low-Power HUB Controller, SSOP-28
+F https://www.kean.com.au/oshw/WR703N/GL850G%20USB%20Hub%201.07.pdf
+$ENDCMP
+#
+$CMP GRM1555C1H151JA01J
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 150pF 50Volts 5%
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM1555C1H201JA01D
+D Murata 0402 GRM 200pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-5% SMD
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM155R61A105KE01J
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM155R61A105KE15J
+D Murata 0402 GRM 1uF Ceramic Multilayer Capacitor, 10 V dc, +85C, X5R Dielectric, +/-10% SMD
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM155R71C103KA01D
+D Ceramic  SMT capacitor 10nF 16Vdc Murata 0402 GRM 10nF Ceramic Multilayer Capacitor, 16 V dc, +125degC, X7R Dielectric,  /-10%
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM155R71C104KA88B
+D Chip Capacitor value 104
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP GRM1885C1H1R6CA01D
+D Chip Capacitor value 1R6
+$ENDCMP
+#
+$CMP GRM32ER61E226KE15L
+D Ceramic  SMT capacitor 22uF 25Vdc Murata 1210 GRM 22uF Ceramic Multilayer Capacitor, 25 V dc, +85C, X5R Dielectric, +/-10%
+F http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM32ER61E226KE15-01.pdf
+$ENDCMP
+#
+$CMP GRM32NF51E106ZA01L
+D Ceramic  SMT capacitor 10uF 25Vdc Murata 10uF Multilayer Ceramic Capacitor (MLCC) 25 V dc -20  80% Y5V dielectric GRM max op. temp. +85C
+F https://componentsearchengine.com/Datasheets/2/GRM32NF51E106ZA01L.pdf
+$ENDCMP
+#
+$CMP IHLP4040DZER6R8M01
+D Vishay IHLP Series Type 4040 Shielded Wire-wound SMD Inductor with a Metal Composite Core, 6.8 uH +/-20% Wire-Wound
+F https://www.vishay.com/docs/34193/ihlp-4040dz-01.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS54334DDA
+D 4.2V to 28V Input voltage, 3A Output current Synchronous buck Converter with 570kHz fixed frequency
+F https://www.ti.com/lit/ds/symlink/tps54334.pdf?ts=1605095033156&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DTPS54334DDA%2526keyMatch%253DTPS54334DDA%2526tisearch%253DSearch-EN-everything%2526usecase%253D
+$ENDCMP
+#
+$CMP TUSB2046BVF
+D TUSB2046BVFG4, USB Transceiver 5-Port at 12Mbit/s, 3.3V, 32-Pin LQFP
+F http://www.ti.com/lit/ds/symlink/tusb2046b.pdf
+$ENDCMP
+#
+$CMP USB2660I-JZX-03
+D USB 2.0 Hub/Flash Controller, 2xSD QFN64 USB2660I-JZX-03, USB Controller 2-channel 35Mbit/s USB 2.0, 3.3 V, 64-Pin, QFN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/2660.pdf
+$ENDCMP
+#
+$CMP ZXLD1350ET5TA
+D LED DRVR 3Segment 9V/12V/15V/18V/24V Automotive 5-Pin TSOT-23 T/R
+F https://componentsearchengine.com/Datasheets/1/ZXLD1350ET5TA.pdf
+$ENDCMP
+#
+$CMP ADP1706ARDZ-3.3-R7
+D Analog Devices ADP1706ARDZ-3.3-R7, Dual LDO Voltage Regulator, 1A, 3.3 V +/-2.5%, 2.5  5.5 Vin, 8-Pin SOIC
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1706_1707_1708.pdf
+$ENDCMP
+#
+$CMP BC849B,215
+D BC849; BC850 - NPN general purpose transistors
+K
+F http://assets.nexperia.com/documents/data-sheet/BC849_BC850.pdf
+$ENDCMP
+#
+$CMP 73412-0110
+D 50 Ohms, MCRF, PCB Vertical Jack Receptacle, SMT, 1.25mm Mounted Height
+K
+F http://www.molex.com/pdm_docs/sd/734120110_sd.pdf
+$ENDCMP
+#
+$CMP LQW15AN47NJ00D
+D LQW15AN_00 Series Inductor 47nH +/-5% 0402 (1005)
+K
+F https://psearch.en.murata.com/inductor/product/LQW15AN47NJ00%23.html
 $ENDCMP
 #
 #End Doc Library
