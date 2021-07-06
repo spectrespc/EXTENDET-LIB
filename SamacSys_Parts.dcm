@@ -143,4 +143,28 @@ K
 F https://psearch.en.murata.com/inductor/product/LQW15AN47NJ00%23.html
 $ENDCMP
 #
+$CMP SIM8065-6-1-14-01-A
+D NANO SIM PUSH-PUSH 6P 1.37MM H G
+K
+F https://www.farnell.com/cad/3168105.pdf
+$ENDCMP
+#
+$CMP 1-1734742-6
+D TE CONNECTIVITY - 1-1734742-6 - CONNECTOR, FFC / FPC, 0.5MM, 16WAY
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734742%7FP%7Fpdf%7FEnglish%7FENG_CD_1734742_P.pdf%7F1-1734742-6
+$ENDCMP
+#
+$CMP 53398-0867
+D CONN WIRE TO BD HDR 8 POS 1.25MM SLDR ST SMD TAPE
+K
+F https://componentsearchengine.com/Datasheets/1/53398-0867.pdf
+$ENDCMP
+#
+$CMP 1734742-8
+D TE Connectivity FPC 0.5mm Pitch 8 Way Straight SMT Female FPC Connector, ZIF Vertical Contact
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734742%7FP%7Fpdf%7FEnglish%7FENG_CD_1734742_P.pdf%7F1-1734742-8
+$ENDCMP
+#
 #End Doc Library
